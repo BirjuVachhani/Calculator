@@ -44,7 +44,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_gravity="bottom"
-        android:background="#1565C0"
+        android:background="@drawable/mybg"
         >
         <LinearLayout
             android:id="@+id/superviserlinearLayout1"
